@@ -1,5 +1,9 @@
 # Intro To Version Control With Git
 
-## Outline
+## Overview
 
-...
+## Objectives
+
+## Prerequisites
+
+## Copyright
