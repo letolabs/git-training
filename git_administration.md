@@ -13,6 +13,7 @@ A one day course in the administration of hosted Git-as-a-service infrastructure
     * Integration with Backup systems
     * Integrating with testing systems
     * Intro to automation with hooks
+    * Deploying from Git
     * Configuring Firewalls to allow Git
     * Fine-grained access control
     * Cryptographic data integrity with Git
