@@ -2,11 +2,15 @@
 
 ## Overview
 
-Start from the beginning and learn the basics of Git on the command-line in the first day.
-Days 2 and 3 are for developers working in a team or as part of multiple teams with complex
+Start from the beginning and learn the basics of Git on the
+command-line in the first day.  Days 2 and 3 are for developers
+working in a team or as part of multiple teams with complex
 dependencies.
 
 ## Objectives
+
+On completion of the course, students will have a firm grasp of
+the most important features of the Git command-line
 
 ### Day 1
 
@@ -37,7 +41,7 @@ dependencies.
     * Local Git Hooks
     * Remote Git Hooks
     * Introduction to Git Submodules
-
+    * Reading the Git documentation
 
 ## Prerequisites
 
