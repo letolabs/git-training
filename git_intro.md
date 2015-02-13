@@ -16,19 +16,19 @@ push and pull from remotes,
 
     * Git Concepts
 		* Content Tracking
-			* Goal: Students will understand the fundamental use cases for Git
+			Goal: Students will understand the fundamental use cases for Git
 		* Comparison to other Version Control Systems
-			* Goal: Students will understand the key similarities and
+			Goal: Students will understand the key similarities and
 			* differences between CVS, Subversion and Mercurial.
 		* Data Integrity
-			* Goal: Students will understand how Git protects against data corruption and forging history
+			Goal: Students will understand how Git protects against data corruption and forging history
 		* Repositories
 			Goal: Students will understand the Git repository structure and how they related to branches and commits
 	* Git Operations
 		* Creating a new local repository
-			* Goal: Students will understand how to create new Git repository
+			Goal: Students will understand how to create new Git repository
 		* Commits and SHA1s
-			* Goal: Students will understand how to stage a Git commit and the
+			Goal: Students will understand how to stage a Git commit and the
 			  commonly-used command-line options. Additionally, students will
 			  understand SHA1s and how they related to commits.
 		* Branches, merging and conflicts
@@ -53,7 +53,7 @@ push and pull from remotes,
 		* What is Git, on the inside?
 			Goal: Students will understand the structure of the .git/ directory and how the internal Git database works
 		* Introduction to Git Hooks
-			* Goal: Students will understand how to use pre-commit hooks to
+			Goal: Students will understand how to use pre-commit hooks to
 			enforce requirements and post-receive hooks to execute code when
 			a remote receives pushes. A brief overview of other hooks will
 			also be described.
