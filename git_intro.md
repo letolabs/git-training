@@ -28,7 +28,7 @@ push and pull from remotes,
 		* Creating a new local repository
 			* Goal: Students will understand how to create new Git repository
 		* Commits and SHA1s
-			* Goal: Students will understand how to make a Git commit and the
+			* Goal: Students will understand how to stage a Git commit and the
 			  commonly-used command-line options. Additionally, students will
 			  understand SHA1s and how they related to commits.
 		* Branches, merging and conflicts
