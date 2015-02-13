@@ -26,7 +26,7 @@ production systems.
     * Code Review Best Practices
     * Advanced Code Review Techniques
     * Storing Large Files in Git
-    * Manging large numbers of repositories
+    * Managing large numbers of repositories
     * Automated Quality Control
     * Cryptographic verification and Git
 
