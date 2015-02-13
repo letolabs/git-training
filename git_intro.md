@@ -14,40 +14,56 @@ push and pull from remotes,
 
 ## Course Outline
 
-    * Basic Git Concepts
+    * Git Concepts
 		* Content Tracking
 			* Goal: Students will understand the fundamental use cases for Git
 		* Comparison to other Version Control Systems
 			* Goal: Students will understand the key similarities and
 			* differences between CVS, Subversion and Mercurial.
 		* Data Integrity
-		* Commits and SHA1s
-		* Branches, merging and conflicts
+			* Goal: Students will understand how Git protects against data corruption and forging history
 		* Repositories
+			Goal: Students will understand the Git repository structure and how they related to branches and commits
+	* Git Operations
+		* Creating a new local repository
+			* Goal: Students will understand how to create new Git repository
+		* Commits and SHA1s
+			* Goal: Students will understand how to make a Git commit and the
+			  commonly-used command-line options. Additionally, students will
+			  understand SHA1s and how they related to commits.
+		* Branches, merging and conflicts
+			Goal: Students will understand how to make Git branches, merge branches together and how to deal with merge conflicts
 		* Remotes
+			Goal: Students will understand how to add and remove remotes
+		* Pushing and Pulling
+			Goal: Students will push their own commits from the their local
+			repository to a remote and understand the various command-line flags
+			and what effects they have.
+		* Exploring History
+			Goal: Students will understand various techniques to browse through Git history as well as search for certain keywords in the history
+		* Using the Stash
+			Goal: Students will understand how to quickly change between tasks with the stash and various operations the stash supports
+		* Reading the Git documentation
+			Goal: Students will understand how to find what they are looking for in the Git documentation
+	* Configuring and Customizing Git
+		* Git Networking
+			Goal: Students will understand the various networking protocols that Git supports and which are best suited for various situations
+		* SSH Setup
+			Goal: Students will understand how to create, manage and replace their SSH keys they use for Git
 		* What is Git, on the inside?
-    * Creating a new local repository
-	* Exploring History
-    * Git Networking
-    * SSH Setup
-	* Making local commits
-
-	* Pushing and Pulling
-		Goal: Students will push newly made commits from the their local
-		repository to a remote and understand the various command-line flags
-		and what effects they have.
-
-    * Using the Stash
-    * Introduction to Git Hooks
-		* Pre-commit hooks to enforce requirements
-		* Post-receive hooks to execute code when a remote receives pushes
-    * Management of Multiple Remotes
-    * Merging Strategies for A Single Team
-    * Merging Strategies for Multiple Teams
-    * Conflict Resolution Strategies
-    * Managing and Enforcing Data Integrity of Repositories
-    * Optimizing Git with aliases
-    * Reading the Git documentation
+			Goal: Students will understand the structure of the .git/ directory and how the internal Git database works
+		* Introduction to Git Hooks
+			* Goal: Students will understand how to use pre-commit hooks to
+			enforce requirements and post-receive hooks to execute code when
+			a remote receives pushes. A brief overview of other hooks will
+			also be described.
+		* Optimizing Git with aliases
+			Goal: Students will understand how to optimize their workflow by creating aliases and automating common operations
+	* Git workflows
+		* Branching Strategies for A Single Team
+			Goal: Students will understand various ways of using branches on a single team
+		* Branching Strategies for Multiple Teams
+			Goal: Students will understand various ways of using branches on larger groups of multiple teams/departments/organizations
 
 ## Prerequisites
 
