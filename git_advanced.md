@@ -20,7 +20,7 @@ which use Git repositories.
 	* Overview of merge tools
 		Goal: Students will recieve an overview of features from various
 		utilities that are compatible with "git mergetool"
-    * Encrypting Files in Git
+	* Encrypting Files in Git
 		Goal: Students will learn how to encrypt individual files in a
 		repository of mostly unencrypted files. The use case of keeping a
 		configuration file, an SSH private key and an SSL certificate in an
@@ -45,9 +45,9 @@ which use Git repositories.
 	* GPG Signing Tags
 		Goal: Students will understand strategies for cryptographically signing
 		commit tags.
-	*  Git Hooks
+	* Git Hooks
 		Goal: Students will learn about all local and remote Git hooks and how
-		  one would use them to accomplish common tasks.
+		one would use them to accomplish common tasks.
 	* Continuous Integration
 		Goal: Students will learn how to connect Git repositories with testing
 		frameworks.
