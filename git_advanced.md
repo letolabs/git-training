@@ -25,9 +25,9 @@ which use Git repositories.
 		repository of mostly unencrypted files. The use case of keeping a
 		configuration file, an SSH private key and an SSL certificate in an
 		encrypted form within the Git repository.
-	* Dealing with Large Files
-		Goal: Students will learn techniques for managing large files in Git,
-		which is was not originally designed to handle.
+	* Handling with Large Files
+		Goal: Students will learn techniques for managing large files,
+		which Git was not originally designed to handle.
 	* Optimizing Git repositories
 		Goal: Students will learn how to optimize a local Git repository as
 		well as efficiently use bandwidth and disk space when managing various
